@@ -31,7 +31,7 @@ This work presents a combined **analytical and physics-informed neural network (
 The repository includes:
 
 - Neural network model implementation  
-- Supporting scripts and data required to reproduce the Appendix results  
+- Supporting scripts and data required to reproduce the NN results  
 - Example configurations used in the paper  
 
 This version is intended as a **minimal reproducible framework** corresponding to the published article.
@@ -40,7 +40,7 @@ This version is intended as a **minimal reproducible framework** corresponding t
 
 ## ▶️ Reproducibility
 
-To reproduce the neural network results presented in the Appendix:
+To reproduce the neural network results:
 
 1. Prepare the required input data as described in the paper.
 2. Run the provided neural network scripts.
@@ -57,8 +57,6 @@ If you use this code in your research, please cite:
 Boral, S. (2026).  
 Dynamic response of a floating elastic plate supported on a viscoelastic foundation under moving periodic load: Analytical and neural modelling.  
 Applied Mathematics and Computation.
-
-(Once Zenodo DOI is available, please also cite the software release.)
 
 ---
 
